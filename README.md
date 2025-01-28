@@ -14,7 +14,7 @@ Olá! Eu sou Venâncio, um desenvolvedor apaixonado por tecnologia e programaç�
 - 🌱 Atualmente estou aprendendo **React, Node.js**
 - 👯 Estou procurando colaborar em **projetos de código aberto**
 - 💬 Pergunte-me sobre **JavaScript, APIs, Bootstrap**
-- 📫 Como me encontrar: **wallysson.venancio@example.com**
+- 📫 Como me encontrar: **venanciofasb@gmail.com**
 
 ## Estatísticas do GitHub
 
