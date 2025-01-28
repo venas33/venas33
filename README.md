@@ -11,10 +11,14 @@ Olá! Eu sou Venâncio, um desenvolvedor apaixonado por tecnologia e programaç�
 
 ## Sobre Mim
 
-- 🌱 Atualmente estou aprendendo **React, Node.js**
-- 👯 Estou procurando colaborar em **projetos de código aberto**
-- 💬 Pergunte-me sobre **JavaScript, APIs, Bootstrap**
-- 📫 Como me encontrar: **venanciofasb@gmail.com**
+Sou um desenvolvedor de software com sólida experiência em análise e desenvolvimento de sistemas. Tenho um histórico comprovado de trabalho em projetos de alta complexidade, sempre buscando a excelência e a inovação. Minhas principais competências incluem:
+
+- Desenvolvimento de aplicações web e mobile
+- Integração de APIs e serviços de terceiros
+- Utilização de frameworks modernos como React e Node.js
+- Implementação de interfaces responsivas com Bootstrap
+
+Estou sempre em busca de novos desafios e oportunidades para colaborar em projetos que façam a diferença. Se você tem uma ideia ou projeto interessante, vamos conversar!
 
 ## Estatísticas do GitHub
 
@@ -23,6 +27,3 @@ Olá! Eu sou Venâncio, um desenvolvedor apaixonado por tecnologia e programaç�
 ## Linguagens Mais Usadas
 
 ![Linguagens Mais Usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=venas33&layout=compact&theme=radical)
-
-
-
