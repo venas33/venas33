@@ -1,61 +1,102 @@
-<p align="center">
-  <img src="URL_DA_SUA_FOTO_OU_LOGO" alt="Sua Foto" width="150"/>
-</p>
+# Hey 👋 Olá!
 
-<h1 align="center">Olá, eu sou <strong>Seu Nome</strong> 👋</h1>
-<p align="center">🎯 Seu cargo ou objetivo | 🛠️ Skills principais | ❤️ Seus interesses</p>
+<div align="center">
+  
+![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=00bfbf&size=35&center=true&vCenter=true&width=1000&lines=Bem-vindo+ao+meu+perfil!;Desenvolvedor+Full+Stack+apaixonado+por+tecnologia;Sempre+aprendendo+e+evoluindo!)
+
+</div>
 
 ---
 
 ## 💼 Sobre mim
-- 🚀 Atualmente trabalho em **…**
-- 🎓 Estudante/Graduado em **…**
-- 🌍 Baseado em **Cidade, País**
-- 📫 Você pode me contatar via: [Email](mailto:seu@email)
-- 🔗 Estou ativo no [LinkedIn](URL), [Site/Portfólio](URL), etc.
+
+👋 Meu nome é **Wallysson Venâncio**, sou um desenvolvedor apaixonado por tecnologia e inovação!
+
+🌍 **Localização:** Barreiras, Bahia - Brasil  
+🎯 **Objetivo:** Primeira oportunidade no mercado de desenvolvimento  
+📚 **Estudando:** Desenvolvimento Full Stack na Escola DNC  
+💡 **Especialidades:** Desenvolvimento Web, APIs REST e soluções criativas  
+🚀 **Sempre:** Buscando aprender novas tecnologias e aprimorar minhas skills  
 
 ---
 
-## 🛠️ Tecnologias e ferramentas
+## 🚀 Tech Stack
 
-| Linguagem 💻 | Frameworks/Ferramentas | Bancos/Infra |
-|-------------|------------------------|--------------|
-| JavaScript, TypeScript, Python | React, Node.js, Express, Git | PostgreSQL, Docker, AWS |
+### Frontend
+<img src="https://skillicons.dev/icons?i=html,css,js,ts,react,bootstrap" />
 
----
+### Backend & Databases
+<img src="https://skillicons.dev/icons?i=nodejs,firebase,express,mongodb,mysql" />
 
-## 🧩 Destaques de projetos
+### Tools & Metodologias
+<img src="https://skillicons.dev/icons?i=git,github,vscode,figma,docker" />
 
-<table>
-  <tr>
-    <td align="center">
-      <a href="URL_DO_PROJETO_1">
-        <img src="URL_DE_IMAGEM_1" width="120" alt="Projeto 1"/>
-        <br><sub><b>Projeto 1 - destaque</b></sub>
-      </a>
-      <p>Descrição breve do que faz</p>
-    </td>
-    <td align="center">
-      <a href="URL_DO_PROJETO_2">
-        <img src="URL_DE_IMAGEM_2" width="120" alt="Projeto 2"/>
-        <br><sub><b>Projeto 2 - destaque</b></sub>
-      </a>
-      <p>Descrição breve do que faz</p>
-    </td>
-    <!-- Adicione mais colunas conforme necessário -->
-  </tr>
-</table>
+### Metodologias Ágeis
+- 🏃‍♂️ **Scrum Master** - Facilitação de equipes ágeis
+- 📋 **Product Owner (P.O)** - Gestão de backlog e requisitos
+- 🎯 **Kanban** - Gestão visual de fluxo de trabalho
+- 📊 **Design Thinking** - Pensamento centrado no usuário
 
 ---
 
-## 🔗 Redes & Skills
+## 🌟 Minhas Redes
 
-[![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-SeuPerfil-blue?style=for-the-badge&logo=linkedin)](URL_LINKEDIN)
-[![Twitter Badge](https://img.shields.io/badge/Twitter-@seuusuario-1DA1F2?style=for-the-badge&logo=twitter)](URL_TWITTER)
-[![GitHub followers](https://img.shields.io/github/followers/seuusuario?label=Follow&style=social)](https://github.com/seuusuario)
+<div align="center">
+
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/wallysson-venancio)
+[![Instagram](https://img.shields.io/badge/-Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/venanciowv)
+[![GitHub](https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/venas33)
+
+</div>
 
 ---
 
-<p align="center">
-  Made with ❤️ using Markdown
-</p>
+## 📊 GitHub Stats
+
+<div align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=venas33&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=venas33&layout=compact&theme=tokyonight"/>
+</div>
+
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=venas33&theme=tokyonight" alt="GitHub Streak" />
+</div>
+
+---
+
+## 🎯 Projetos em Destaque
+
+<div align="center">
+
+| 🚀 Projeto | 📝 Descrição | 🛠️ Tecnologias |
+|------------|-------------|-----------------|
+| **Pousada Venâncio** | Website completo para pousada com sistema de reservas | HTML, CSS, JavaScript |
+| **API Register Users** | API REST para cadastro e gerenciamento de usuários | Node.js, JavaScript |
+| **Desafios DNC** | Série de projetos desenvolvidos durante o curso | HTML, CSS, JavaScript |
+
+</div>
+
+---
+
+## 🎮 Curiosidades
+
+- 🎯 Sempre em busca de novos desafios e oportunidades de aprendizado
+- 🚀 Entusiasta de metodologias ágeis e gestão de projetos
+- 💻 Apaixonado por clean code e boas práticas de desenvolvimento
+- 🌱 Sempre disposto a colaborar em projetos open source
+
+---
+
+## 📫 Vamos nos conectar?
+
+💬 Estou sempre aberto para conversas sobre tecnologia, oportunidades de trabalho e projetos interessantes!
+
+<div align="center">
+
+**"O código é poesia em movimento, e cada bug é uma oportunidade de aprender algo novo!"** 🚀
+
+---
+
+<img src="https://komarev.com/ghpvc/?username=venas33&color=00bfbf&style=flat-square&label=Profile+Views" alt="Profile Views" />
+
+</div>
