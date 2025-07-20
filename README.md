@@ -27,6 +27,10 @@
 
 <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,bootstrap" />
 <img src="https://skillicons.dev/icons?i=nodejs,firebase" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kotlin/kotlin-original.svg" width="40" height="40"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/androidstudio/androidstudio-original.svg" width="40" height="40"/>
+
+
 
 
 
