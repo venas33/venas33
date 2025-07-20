@@ -10,32 +10,32 @@
 
 ## 💼 Sobre mim
 
-👋 Meu nome é **Wallysson Venâncio**, sou um desenvolvedor apaixonado por tecnologia e inovação!
+👋 Meu nome é **Wallysson Venâncio**, sou um **Desenvolvedor Frontend** especializado em criar experiências web incríveis!
 
 🌍 **Localização:** Barreiras, Bahia - Brasil  
-🎯 **Objetivo:** Primeira oportunidade no mercado de desenvolvimento  
-📚 **Estudando:** Desenvolvimento Full Stack na Escola DNC  
-💡 **Especialidades:** Desenvolvimento Web, APIs REST e soluções criativas  
-🚀 **Sempre:** Buscando aprender novas tecnologias e aprimorar minhas skills  
+🎯 **Foco:** Desenvolvedor Frontend com expertise em interfaces modernas e responsivas  
+📚 **Formação:** Desenvolvimento Full Stack - Escola DNC  
+💡 **Especialidades:** React, TypeScript, Consumo de APIs e Design Responsivo  
+🚀 **Paixão:** Transformar ideias em código limpo e interfaces elegantes  
 
 ---
 
 ## 🚀 Tech Stack
 
-### Frontend
+### Frontend (Minha Especialidade)
 <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,bootstrap" />
 
-### Backend & Databases
-<img src="https://skillicons.dev/icons?i=nodejs,firebase,express,mongodb,mysql" />
+### Backend & Databases (Conhecimentos)
+<img src="https://skillicons.dev/icons?i=nodejs,firebase" />
 
-### Tools & Metodologias
-<img src="https://skillicons.dev/icons?i=git,github,vscode,figma,docker" />
+### Tools & Produtividade
+<img src="https://skillicons.dev/icons?i=git,github,vscode,figma" />
 
-### Metodologias Ágeis
-- 🏃‍♂️ **Scrum Master** - Facilitação de equipes ágeis
-- 📋 **Product Owner (P.O)** - Gestão de backlog e requisitos
+### Gestão de Projetos
+- 🏃‍♂️ **Scrum** - Metodologia ágil para desenvolvimento
+- 📋 **Product Owner (P.O)** - Visão estratégica do produto
+- 📊 **Trello** - Organização e acompanhamento de tarefas
 - 🎯 **Kanban** - Gestão visual de fluxo de trabalho
-- 📊 **Design Thinking** - Pensamento centrado no usuário
 
 ---
 
@@ -70,30 +70,33 @@
 
 | 🚀 Projeto | 📝 Descrição | 🛠️ Tecnologias |
 |------------|-------------|-----------------|
-| **Pousada Venâncio** | Website completo para pousada com sistema de reservas | HTML, CSS, JavaScript |
-| **API Register Users** | API REST para cadastro e gerenciamento de usuários | Node.js, JavaScript |
-| **Desafios DNC** | Série de projetos desenvolvidos durante o curso | HTML, CSS, JavaScript |
+| **Blog Responsivo** | Blog moderno e totalmente responsivo com consumo de APIs externas | HTML, CSS, JavaScript, API REST |
+| **Dashboard Interativo** | Interface dinâmica para visualização de dados com gráficos interativos | React, TypeScript, Chart.js |
+| **Pousada Venâncio** | Landing page profissional para pousada com design responsivo | HTML, CSS, JavaScript |
+| **API Register Users** | Sistema de cadastro de usuários com validações | Node.js, Firebase |
 
 </div>
 
 ---
 
-## 🎮 Curiosidades
+## 🎮 Por que trabalhar comigo?
 
-- 🎯 Sempre em busca de novos desafios e oportunidades de aprendizado
-- 🚀 Entusiasta de metodologias ágeis e gestão de projetos
-- 💻 Apaixonado por clean code e boas práticas de desenvolvimento
-- 🌱 Sempre disposto a colaborar em projetos open source
+- 💡 **Criatividade técnica:** Transformo wireframes complexos em interfaces funcionais e elegantes
+- 🚀 **Performance-driven:** Foco em otimização e experiência do usuário excepcional  
+- � **Mobile-first:** Especialista em design responsivo e desenvolvimento cross-browser
+- � **API Integration:** Experiente em consumo e integração de APIs REST
+- 🎯 **Resolução de problemas:** Paixão por debugar e encontrar soluções eficientes
+- 📈 **Sempre evoluindo:** Constante atualização com as mais recentes tecnologias frontend
 
 ---
 
-## 📫 Vamos nos conectar?
+## � Pronto para novos desafios!
 
-💬 Estou sempre aberto para conversas sobre tecnologia, oportunidades de trabalho e projetos interessantes!
+🌟 **Busco oportunidades** para aplicar minhas skills em projetos impactantes e colaborar com equipes que valorizam código limpo e inovação.
 
 <div align="center">
 
-**"O código é poesia em movimento, e cada bug é uma oportunidade de aprender algo novo!"** 🚀
+**"Cada linha de código é uma oportunidade de criar algo extraordinário!"** ✨
 
 ---
 
