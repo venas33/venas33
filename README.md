@@ -30,9 +30,8 @@
 
 
 
-![Scrum](https://img.shields.io/badge/-Scrum-009FDA?style=flat&logo=scrumalliance&logoColor=white)
-![Kanban](https://img.shields.io/badge/-Kanban-0052CC?style=flat&logo=atlassian)
-![Product Owner](https://img.shields.io/badge/-Product%20Owner-FF6B35?style=flat&logo=producthunt&logoColor=white)
+### Tools & Produtividade
+<img src="https://skillicons.dev/icons?i=git,github,vscode,figma"ite)
 
 ---
 
