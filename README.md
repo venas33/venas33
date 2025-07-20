@@ -2,7 +2,7 @@
 
 <div align="center">
   
-![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=00bfbf&size=35&center=true&vCenter=true&width=1000&lines=Bem-vindo+ao+meu+perfil!;Desenvolvedor+Full+Stack+apaixonado+por+tecnologia;Sempre+aprendendo+e+evoluindo!)
+![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=00bfbf&size=35&center=true&vCenter=true&width=1000&lines=Bem-vindo+ao+meu+perfil!;Desenvolvedor+Frontend+especializado+em+React;Transformando+ideias+em+interfaces+incríveis;Sempre+aprendendo+e+evoluindo!)
 
 </div>
 
@@ -60,6 +60,10 @@
 
 <div align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=venas33&theme=tokyonight" alt="GitHub Streak" />
+</div>
+
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=venas33&theme=tokyo-night&hide_border=true&area=true" alt="Contribution Graph" />
 </div>
 
 ---
