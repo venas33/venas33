@@ -31,7 +31,7 @@
 
 
 ### Tools & Produtividade
-<img src="https://skillicons.dev/icons?i=git,github,vscode,figma"ite)
+<img src="https://skillicons.dev/icons?i=git,github,vscode,figma" />
 
 ---
 
