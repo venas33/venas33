@@ -1,12 +1,9 @@
 <h1 align="center">Hey 👋 Olá!</h1>
 
-<p align="center">
-  Meu nome é <strong>Wallysson Venâncio</strong>, moro no <strong>Brasil</strong>, e atualmente estou estudando <strong>Desenvolvimento Full Stack</strong> na <strong>Escola DNC</strong>. Sou apaixonado por criar <strong>interfaces incríveis</strong> e especializado em <strong>desenvolvimento Frontend</strong>.
-</p>
+<div align="center">
+  
+![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=00bfbf&size=35&center=true&vCenter=true&width=1000&lines=Bem-vindo+ao+meu+perfil!;Desenvolvedor+Frontend+especializado+em+React;Transformando+ideias+em+interfaces+incríveis;Sempre+aprendendo+e+evoluindo!)
 
-<p align="center">
-  Meu nome é <strong>Wallysson Venâncio</strong>, moro no <strong>Brasil</strong>, e atualmente estou estudando <strong>Desenvolvimento Full Stack</strong> na <strong>Escola DNC</strong>. Sou apaixonado por criar <strong>interfaces incríveis</strong> e especializado em <strong>desenvolvimento Frontend</strong>.
-</p>
 
 ---
 
