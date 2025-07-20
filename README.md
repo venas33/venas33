@@ -4,6 +4,10 @@
   Meu nome é <strong>Wallysson Venâncio</strong>, moro no <strong>Brasil</strong>, e atualmente estou estudando <strong>Desenvolvimento Full Stack</strong> na <strong>Escola DNC</strong>. Sou apaixonado por criar <strong>interfaces incríveis</strong> e especializado em <strong>desenvolvimento Frontend</strong>.
 </p>
 
+<p align="center">
+  Meu nome é <strong>Wallysson Venâncio</strong>, moro no <strong>Brasil</strong>, e atualmente estou estudando <strong>Desenvolvimento Full Stack</strong> na <strong>Escola DNC</strong>. Sou apaixonado por criar <strong>interfaces incríveis</strong> e especializado em <strong>desenvolvimento Frontend</strong>.
+</p>
+
 ---
 
 ### 🧑‍💻 Sobre mim
