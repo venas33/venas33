@@ -57,8 +57,7 @@
 <div align="center">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=venas33&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=venas33&layout=compact&theme=radical"/>
-![Wallysson's GitHub stats](https://github-readme-stats.vercel.app/api?username=venas33&show_icons=true&cache_seconds=30)
-</div>
+
 
 
 
