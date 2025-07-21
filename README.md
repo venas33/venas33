@@ -9,7 +9,7 @@
 
 ### 🧑‍💻 Sobre mim
 
-- 📚 Estou atualmente aprendendo sobre **React avançado** e **integração de APIs**
+
 - 🎯 Objetivo: Conseguir minha **primeira oportunidade como desenvolvedor Frontend**
 - 🎲 Fato interessante: Adoro transformar designs em código e sempre buscando a perfeição em cada pixel 💻
 
