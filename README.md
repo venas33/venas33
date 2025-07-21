@@ -59,9 +59,7 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=venas33&layout=compact&theme=radical"/>
 </div>
 
-<div align="center">
-  <img src="https://streak-stats.demolab.com/?user=venas33&theme=radical" alt="GitHub Streak" />
-</div>
+
 
 ---
 
